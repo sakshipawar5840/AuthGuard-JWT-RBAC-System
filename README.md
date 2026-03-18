@@ -1,14 +1,15 @@
 ## Screenshots
 
 ### Login Page
-
-<img width="1365" height="585" alt="user-dashboard" src="https://github.com/user-attachments/assets/2fcced48-9de1-4197-b468-8515f69bf2b9" />
-### User Login
-<img width="1346" height="594" alt="register" src="https://github.com/user-attachments/assets/141d2f32-dbb9-4299-a465-d51bb1883a93" />
+<img width="1360" height="584" alt="login" src="https://github.com/user-attachments/assets/85d01e0c-f69c-4221-85e6-518daa82cc9f" />
+### register page
+<img width="1346" height="594" alt="register" src="https://github.com/user-attachments/assets/b0b791c8-e5a4-4271-8260-1e2eee26f403" />
 ### User Dashboard
-<img width="1360" height="584" alt="login" src="https://github.com/user-attachments/assets/9fad3ddd-4355-4e4a-8ef6-1329dfdb0f14" />
+<img width="1365" height="585" alt="user-dashboard" src="https://github.com/user-attachments/assets/eefc7e36-87da-4796-a080-ab656e0b8f57" />
 ### Admin Dashboard
-<img width="1362" height="587" alt="admin-dashboard" src="https://github.com/user-attachments/assets/a9992009-e727-4de8-95a1-a92320f07f4e" />
+<img width="1362" height="587" alt="admin-dashboard" src="https://github.com/user-attachments/assets/bf9c3aea-285b-4b46-8867-7c796753c756" />
+
+
 # JWT & RBAC Secure Application
 
 A full-stack application demonstrating JWT-based authentication and Role-Based Access Control (RBAC).
