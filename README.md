@@ -1,6 +1,13 @@
+## Screenshots
+
+### Login Page
+
 <img width="1365" height="585" alt="user-dashboard" src="https://github.com/user-attachments/assets/2fcced48-9de1-4197-b468-8515f69bf2b9" />
+### User Login
 <img width="1346" height="594" alt="register" src="https://github.com/user-attachments/assets/141d2f32-dbb9-4299-a465-d51bb1883a93" />
+### User Dashboard
 <img width="1360" height="584" alt="login" src="https://github.com/user-attachments/assets/9fad3ddd-4355-4e4a-8ef6-1329dfdb0f14" />
+### Admin Dashboard
 <img width="1362" height="587" alt="admin-dashboard" src="https://github.com/user-attachments/assets/a9992009-e727-4de8-95a1-a92320f07f4e" />
 # JWT & RBAC Secure Application
 
@@ -43,16 +50,4 @@ Password: password123
 ### User Login
 Email: user@example.com
 Password: password123                                                                                                                                                    
-## Screenshots
 
-### Login Page
-![Login](screenshots/login.png)
-
-### Register Page
-![Register](screenshots/register.png)
-
-### User Dashboard
-![User](screenshots/user-dashboard.png)
-
-### Admin Dashboard
-![Admin](screenshots/admin-dashboard.png)
