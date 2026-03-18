@@ -29,3 +29,26 @@ A full-stack application demonstrating JWT-based authentication and Role-Based A
 1. Install dependencies: `npm install`
 2. Start development server: `npm run dev`
 3. Access the app at `http://localhost:3000`
+
+   ## Demo Credentials
+
+### Admin Login
+Email: admin@example.com
+Password: password123
+
+### User Login
+Email: user@example.com
+Password: password123                                                                                                                                                    
+## Screenshots
+
+### Login Page
+![Login](screenshots/login.png)
+
+### Register Page
+![Register](screenshots/register.png)
+
+### User Dashboard
+![User](screenshots/user-dashboard.png)
+
+### Admin Dashboard
+![Admin](screenshots/admin-dashboard.png)
