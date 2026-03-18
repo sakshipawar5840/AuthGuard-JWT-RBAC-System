@@ -1,0 +1,5 @@
+{
+  "name": "RBAC Auth System",
+  "description": "A full-stack authentication and role-based access control system with JWT and React.",
+  "requestFramePermissions": []
+}
